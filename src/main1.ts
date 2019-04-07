@@ -1,0 +1,1 @@
+let doLog1 = (message) =>console.log("this is my name");
